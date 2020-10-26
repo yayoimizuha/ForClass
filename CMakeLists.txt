@@ -5,3 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(ren08 ren08.c)
 add_executable(ren09 ren09.c)
+add_executable(6.4.2 6.4.2.c)
+add_executable(ren10 ren10.c)
